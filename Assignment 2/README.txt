@@ -1,5 +1,5 @@
 Author: QingZe Luo
-Email: luo.kasoma@gmail.com
+
 
 INTRODUCTION
 ------------
