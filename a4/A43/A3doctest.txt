@@ -1,0 +1,8 @@
+>>> from A43 import giftCard
+None
+import the function and class in the A42
+>>> Card1 = giftCard( "A4_part3.html", "Gift Card")
+>>> Card1.GenCards(1000, 500, 1000)
+>>> Card1
+card('Gift Card', 'A4_part3.html')
+

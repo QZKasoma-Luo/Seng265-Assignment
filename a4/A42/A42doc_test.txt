@@ -1,0 +1,5 @@
+>>> from A42 import GenRandom
+A4 part2
+>>> R1 = GenRandom(0,2).int_number
+>>> isinstance(R1, float)
+False
